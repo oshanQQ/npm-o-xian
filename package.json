@@ -25,6 +25,6 @@
     "webpack-cli": "^4.6.0"
   },
   "bin": {
-    "ts-sample": "./bin/ts-sample.js"
+    "o-xian": "./bin/intro.js"
   }
 }
