@@ -3,7 +3,17 @@
 
 const boxen = require('boxen');
 
-const nameCardContent = 'My name is Onoyama Shodai';
+const data = {
+  name: "Onoyama Shodai",
+  handleName: "o-xian",
+  twitter: "https://twitter.com/oshanQQ",
+  github: "https://github.com/oshanQQ",
+  qiita: "https://qiita.com/oshanQQ",
+  blog: "https://o-xian.netlify.app/",
+  speakerdeck: "https://speakerdeck.com/oshanqq"
+};
+
+const displayData = data.speakerdeck + "\n" + data.qiita;
 
 const boxenStyle = {
   padding: 2,
@@ -11,4 +21,4 @@ const boxenStyle = {
   borderColor: "cyan",
 };
 
-console.log(boxen(nameCardContent, boxenStyle));
+console.log(boxen(displayData, boxenStyle));
