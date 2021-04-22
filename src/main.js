@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// 👆 Used to tell Node.js that this is a CLI tool
 
 const boxen = require('boxen');
 
