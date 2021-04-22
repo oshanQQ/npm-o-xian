@@ -2,10 +2,12 @@
 
 const boxen = require('boxen');
 
+const nameCardContent = 'My name is Onoyama Shodai';
+
 const boxenStyle = {
   padding: 2,
   borderStyle: "double",
   borderColor: "cyan",
 };
 
-console.log(boxen("Hello, World!", boxenStyle));
+console.log(boxen(nameCardContent, boxenStyle));
