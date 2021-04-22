@@ -1,0 +1,19 @@
+{
+  "name": "npm-self-introduction",
+  "version": "1.0.0",
+  "description": "Self introduction command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshanQQ/npm-self-introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshanQQ/npm-self-introduction/issues"
+  },
+  "homepage": "https://github.com/oshanQQ/npm-self-introduction#readme"
+}
