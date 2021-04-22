@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/oshanQQ/npm-self-introduction/issues"
   },
-  "homepage": "https://github.com/oshanQQ/npm-self-introduction#readme"
+  "homepage": "https://github.com/oshanQQ/npm-self-introduction#readme",
+  "dependencies": {
+    "boxen": "^5.0.1"
+  }
 }
