@@ -2,7 +2,9 @@
   "name": "npm-self-introduction",
   "version": "1.0.0",
   "description": "Self introduction command",
-  "main": "index.js",
+  "bin": {
+    "npm-cli-sample": "bin/npm-cli-sample"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
