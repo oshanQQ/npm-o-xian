@@ -27,6 +27,15 @@ const data = {
 const helloMesssage = `Hi👋 my name is ${data.name}`;
 const newline = '\n';
 
+const displayData = helloMesssage + newline
+                  + newline
+                  + newline
+                  + data.handleNameTag + data.handleName + newline
+                  + data.twitterTag + data.twitter + newline
+                  + data.githubTag + data.github + newline
+                  + data.qiitaTag + data.qiita + newline
+                  + data.blogTag + data.blog + newline
+                  + data.speakerdeckTag + data.speakerdeck;
 
 const boxenStyle = {
   padding: 2,
