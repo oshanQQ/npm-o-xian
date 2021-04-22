@@ -2,6 +2,7 @@
 // 👆 Used to tell Node.js that this is a CLI tool
 
 const boxen = require('boxen');
+const chalk = require('chalk');
 
 const data = {
   // Basic data
