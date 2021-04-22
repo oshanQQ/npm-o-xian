@@ -24,7 +24,9 @@ const data = {
   speakerdeckTag: chalk.hex('#009287').bold('SpeakerDeck: '),
 };
 
-const displayData = data.speakerdeck + "\n" + data.qiita;
+const helloMesssage = `Hi👋 my name is ${data.name}`;
+const newline = '\n';
+
 
 const boxenStyle = {
   padding: 2,
