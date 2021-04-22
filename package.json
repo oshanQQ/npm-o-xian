@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/oshanQQ/npm-self-introduction#readme",
   "dependencies": {
-    "boxen": "^5.0.1"
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1"
   }
 }
