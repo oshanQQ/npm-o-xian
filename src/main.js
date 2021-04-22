@@ -39,8 +39,7 @@ const displayData = helloMesssage + newline
 
 const boxenStyle = {
   padding: 2,
-  borderStyle: "double",
-  borderColor: "cyan",
+  borderColor: 'red'
 };
 
 console.log(boxen(displayData, boxenStyle));
