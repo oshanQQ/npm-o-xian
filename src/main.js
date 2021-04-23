@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // 👆 Used to tell Node.js that this is a CLI tool
 
+'use strict';
+
 const boxen = require('boxen');
 const chalk = require('chalk');
 
