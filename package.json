@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oshanQQ/npm-self-introduction.git"
+    "url": "git+https://github.com/oshanQQ/npm-o-xian.git"
   },
   "author": "",
   "keywords": ["npm", "card"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oshanQQ/npm-self-introduction/issues"
+    "url": "https://github.com/oshanQQ/npm-o-xian/issues"
   },
-  "homepage": "https://github.com/oshanQQ/npm-self-introduction#readme",
+  "homepage": "https://github.com/oshanQQ/npm-o-xian#readme",
   "dependencies": {
     "boxen": "^5.0.1",
     "chalk": "^4.1.1"
