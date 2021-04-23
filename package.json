@@ -1,6 +1,6 @@
 {
   "name": "o-xian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Self introduction command",
   "bin": {
     "o-xian": "src/main.js"
