@@ -13,6 +13,7 @@
     "url": "git+https://github.com/oshanQQ/npm-self-introduction.git"
   },
   "author": "",
+  "keywords": ["npm", "card"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oshanQQ/npm-self-introduction/issues"
