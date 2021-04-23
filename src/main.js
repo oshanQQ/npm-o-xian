@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // 👆 Used to tell Node.js that this is a CLI tool
 
+'use strict';
+
 const boxen = require('boxen');
 const chalk = require('chalk');
 
@@ -39,6 +41,7 @@ const displayData = helloMesssage + newline
 
 const boxenStyle = {
   padding: 2,
+  margin: 2,
   borderStyle: 'double',
   borderColor: 'red'
 };
