@@ -5,14 +5,14 @@ This will pass @oshanQQ 's name card to your terminal.
 This card was created using this repository as a sample.
 - https://github.com/bnb/bitandbang
   
-### Command 
+## Installation
+To install this, use npm and enter it like this.
 ```bash
-// install
-npm -g install o-xian
+npm install -g npm-o-xian
+```
 
-// Use the command
+## Usage
+All you have to do is type this command.
+```bash
 o-xian
-
-// uninstall
-npm -g uninstall o-xian
 ```
