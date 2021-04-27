@@ -1,6 +1,6 @@
 {
   "name": "npm-o-xian",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Self introduction command",
   "bin": {
     "o-xian": "src/main.js"
@@ -14,7 +14,7 @@
   },
   "author": "",
   "keywords": ["npm", "card"],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/oshanQQ/npm-o-xian/issues"
   },
