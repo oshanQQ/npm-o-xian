@@ -16,6 +16,3 @@ All you have to do is type this command.
 ```bash
 o-xian
 ```
-
-## Licence
-MIT
